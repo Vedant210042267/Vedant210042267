@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning Qiskit
 - 💞️ I’m looking to collaborate on Quantum Algorithms
-- 📫 How to reach me https://www.linkedin.com/in/vedant-mahadik/
+- 📫 How to reach me https://www.linkedin.com/in/vedant-mahadik-cr2100/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If i go into the past and kill my grandfather then I'll................💀💀💀
 
